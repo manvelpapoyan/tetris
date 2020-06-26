@@ -12,7 +12,7 @@ function tetris() {
   // kubik nerkel
   fig.forEach(el => {
 
-    document.getElementById(el).style.backgroundColor = 'black'
+    document.getElementById(el).style.backgroundColor = 'green'
 
   })
 
@@ -43,7 +43,7 @@ function tetris() {
       }
       data.forEach(el => {
 
-        document.getElementById(el).style.backgroundColor = 'green'
+        document.getElementById(el).style.backgroundColor = 'black'
 
 
       })
@@ -73,7 +73,7 @@ function tetris() {
     }
     data.forEach(el => {
 
-      document.getElementById(el).style.backgroundColor = 'green'
+      document.getElementById(el).style.backgroundColor = 'black'
 
 
     })

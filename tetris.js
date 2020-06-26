@@ -73,7 +73,7 @@ function tetris() {
     }
     data.forEach(el => {
 
-      document.getElementById(el).style.backgroundColor = 'black'
+      document.getElementById(el).style.backgroundColor = 'green'
 
 
     })

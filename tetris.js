@@ -356,7 +356,7 @@ let r = Math.floor(Math.random() * 7)
 let fig = figures[r]
 let m = 0
 
-let id = setInterval(tetris, 200);
+let id = setInterval(tetris, 300);
 
 
 

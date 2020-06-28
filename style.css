@@ -1,0 +1,15 @@
+.tetrisBody {
+    width: 395px;
+    margin-left: 37%;
+}
+[class*='row-'] {
+    float: left;
+}
+.col {
+    height: 30px;
+    width: 30px;
+    border: 1px solid black;
+    float: left;
+    background-color: white;
+
+} 
